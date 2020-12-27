@@ -1,0 +1,84 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+.bodyTag{
+    width: 90%;
+    margin: auto;
+}
+
+.navbar-brand img{
+    width: 100px;
+}
+
+.navbar-nav a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.navbar-nav a:hover{
+    border-bottom: 1px solid black;
+}
+
+.covid_link_div{
+    background-color: rgb(179, 1, 1);
+}
+
+.covid_link_div a{
+    color: white;
+}
+
+.car_div{
+    background-color: rgb(236, 236, 236);
+}
+
+.carousel-inner{
+    position: relative;
+    min-height: 70vh;
+}
+
+.card_1_div a{
+    color: rgb(179, 1, 1);
+}
+
+.card_2_div a{
+    color: rgb(179, 1, 1);
+}
+
+.card{
+    border: none;
+}
+
+.footer_div{
+    width: 90%;
+}
+
+.footer_div ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+
+footer{
+    background-color: rgb(236, 236, 236);
+}
+
+.abc{
+    background-color: red;
+}
+
+.img_div{
+    min-height: 70vh;
+    background-color: rgb(236, 236, 236);
+}
+
+.img_div_text{
+    color: black;
+}
+
+.img_div_text button{
+    background-color: rgb(179, 1, 1);
+    color: white;
+    font-weight: bold;
+}
