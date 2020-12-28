@@ -40,6 +40,7 @@
 
 .card_1_div a{
     color: rgb(179, 1, 1);
+    
 }
 
 .card_2_div a{
@@ -55,9 +56,14 @@
 }
 
 .footer_div ul li a{
-    text-decoration: none;
-    color: black;
+    color: rgb(65, 65, 65);
     font-size: 12px;
+}
+
+
+
+.footer_div ul h6 a{
+    color: rgb(92, 91, 91);
 }
 
 footer{
